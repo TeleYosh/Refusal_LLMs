@@ -207,4 +207,3 @@ dependencies:
       - wikipedia==1.4.0
       - xxhash==3.5.0
       - yarl==1.18.3
-prefix: /home/thomas/miniconda3/envs/LLM
